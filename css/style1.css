@@ -1,0 +1,21 @@
+.form
+{
+	padding:10%;
+	margin-left: 25%;
+	font-family: cursive;
+	background: #000;
+	color:#FFFFFF;
+}
+.form label
+{
+	color: cyan;
+	
+}
+.field
+{
+	padding: 5%;
+}
+.field input
+{
+	padding:2%;
+}
